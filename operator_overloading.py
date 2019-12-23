@@ -1,4 +1,6 @@
 # operator overloading
+# when we want to add two object using unary operator(+) then throw an error because interpreter does not knowo how to add unary operator
+# So using __add__ operator known as operator overloading.
 
 class opertor_overloading :
 
