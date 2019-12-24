@@ -18,5 +18,5 @@ obb1 = opertor_overloading(10,20)
 obb2 = opertor_overloading(30,40)
 
 m3=opertor_overloading.__add__(obb1,obb2)
-#m3 = obb1 + obb2
 print(m3)
+#m3 = a=40 , b=60
